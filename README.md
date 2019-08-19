@@ -10,8 +10,3 @@ This repository contains all of the notes taken by [Gary](https://github.com/sne
 # Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-
-1. Item 1
-2. Item 2
-3. Item 3
-
